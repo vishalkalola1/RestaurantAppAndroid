@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReviewRestaurants</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_activity_user_dashbaord">UserDashbaordActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
